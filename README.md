@@ -1,2 +1,2 @@
-# VA3
-Prova VA3
+# App ToDo
+Aplicativo de tarefas a fazer, desenvolvido em Ionic
